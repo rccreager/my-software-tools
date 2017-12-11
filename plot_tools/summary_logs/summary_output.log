@@ -1,0 +1,240 @@
+
+Processing plot_summary_NTagB_MV2c10at60tagged_tag_ingo_fitter.C...
+NTagB for MV2c10at60tagged ingo_fitter
+44079.6
+42981.1
+29052.2
+28625.7
+77000.8
+23392.6
+98666.4
+54537.6
+61528
+
+Processing plot_summary_NTagB_MV2c10at60tagged_tag_ingo_templates.C...
+NTagB for MV2c10at60tagged ingo_templates
+44142.4
+42854.3
+28946.7
+28657.7
+77477.4
+23757.5
+99988.2
+55082.8
+61685.1
+
+Processing plot_summary_NTagB_MV2c10at60tagged_tag_old_tuples_old_BT.C...
+NTagB for MV2c10at60tagged old_tuples_old_BT
+44142.4
+42854.3
+28946.7
+28657.7
+77477.4
+23757.6
+99988.2
+55082.6
+61685.7
+
+Processing plot_summary_NTagB_MV2c10at60tagged_tag_new_tuples_old_BT.C...
+NTagB for MV2c10at60tagged new_tuples_old_BT
+139262
+138322
+45761.8
+50307.8
+116479
+37537.2
+151774
+102645
+129180
+
+Processing plot_summary_NTagB_MV2c10at60tagged_tag_new_tuples_new_BT.C...
+NTagB for MV2c10at60tagged new_tuples_new_BT
+67063.3
+64035
+45761.8
+50307.8
+116479
+37537.2
+151774
+102645
+129180
+
+Processing plot_summary_NUntagB_MV2c10at60tagged_tag_ingo_fitter.C...
+NUntagB for MV2c10at60tagged ingo_fitter
+40312.7
+28431.2
+17606.6
+18830.8
+45478.2
+13410.1
+50533.9
+28957.6
+24503.5
+
+Processing plot_summary_NUntagB_MV2c10at60tagged_tag_ingo_templates.C...
+NUntagB for MV2c10at60tagged ingo_templates
+41453.5
+28730.9
+17811.9
+19120
+46257.7
+14923.8
+56329.8
+31672.4
+30176.2
+
+Processing plot_summary_NUntagB_MV2c10at60tagged_tag_old_tuples_old_BT.C...
+NUntagB for MV2c10at60tagged old_tuples_old_BT
+41453.5
+28730.9
+17811.9
+19120.1
+46257.8
+14923.7
+56329.9
+31671.6
+30177.4
+
+Processing plot_summary_NUntagB_MV2c10at60tagged_tag_new_tuples_old_BT.C...
+NUntagB for MV2c10at60tagged new_tuples_old_BT
+135460
+91389.8
+33842.5
+39256.2
+92337.2
+31303
+148732
+112212
+141517
+
+Processing plot_summary_NUntagB_MV2c10at60tagged_tag_new_tuples_new_BT.C...
+NUntagB for MV2c10at60tagged new_tuples_new_BT
+62548.7
+45926.1
+33842.5
+39256.2
+92337.2
+31303
+148732
+112212
+141517
+
+Processing plot_summary_measuredBEfficiencies_MV2c10at60tagged_tag_ingo_fitter.C...
+measuredBEfficiencies for MV2c10at60tagged ingo_fitter
+0.522318
+0.601872
+0.622652
+0.603199
+0.628686
+0.635622
+0.661301
+0.653182
+0.71518
+
+Processing plot_summary_measuredBEfficiencies_MV2c10at60tagged_tag_ingo_templates.C...
+measuredBEfficiencies for MV2c10at60tagged ingo_templates
+0.515707
+0.598647
+0.619067
+0.599813
+0.626155
+0.614186
+0.639646
+0.634922
+0.671502
+
+Processing plot_summary_measuredBEfficiencies_MV2c10at60tagged_tag_old_tuples_old_BT.C...
+measuredBEfficiencies for MV2c10at60tagged old_tuples_old_BT
+0.515707
+0.598647
+0.619067
+0.599813
+0.626155
+0.614188
+0.639646
+0.634927
+0.671496
+
+Processing plot_summary_measuredBEfficiencies_MV2c10at60tagged_tag_new_tuples_old_BT.C...
+measuredBEfficiencies for MV2c10at60tagged new_tuples_old_BT
+0.506922
+0.602154
+0.574866
+0.561697
+0.557807
+0.54528
+0.505061
+0.477736
+0.477214
+
+Processing plot_summary_measuredBEfficiencies_MV2c10at60tagged_tag_new_tuples_new_BT.C...
+measuredBEfficiencies for MV2c10at60tagged new_tuples_new_BT
+0.517416
+0.582342
+0.574866
+0.561697
+0.557807
+0.54528
+0.505061
+0.477736
+0.477214
+
+Processing plot_summary_trueBEfficiencies_MV2c10at60tagged_tag_ingo_fitter.C...
+trueBEfficiencies for MV2c10at60tagged ingo_fitter
+0.445482
+0.55171
+0.661167
+0.676759
+0.691752
+0.705983
+0.730658
+0.711039
+0.671631
+
+Processing plot_summary_trueBEfficiencies_MV2c10at60tagged_tag_ingo_templates.C...
+trueBEfficiencies for MV2c10at60tagged ingo_templates
+0.446402
+0.544646
+0.639623
+0.674327
+0.694692
+0.703349
+0.719165
+0.69345
+0.654911
+
+Processing plot_summary_trueBEfficiencies_MV2c10at60tagged_tag_old_tuples_old_BT.C...
+trueBEfficiencies for MV2c10at60tagged old_tuples_old_BT
+0.446402
+0.544646
+0.639623
+0.674328
+0.694692
+0.703349
+0.719165
+0.69345
+0.654911
+
+Processing plot_summary_trueBEfficiencies_MV2c10at60tagged_tag_new_tuples_old_BT.C...
+trueBEfficiencies for MV2c10at60tagged new_tuples_old_BT
+0.45251
+0.589447
+0.519352
+0.644203
+0.605794
+0.590186
+0.681383
+0.699901
+0.710157
+
+Processing plot_summary_trueBEfficiencies_MV2c10at60tagged_tag_new_tuples_new_BT.C...
+trueBEfficiencies for MV2c10at60tagged new_tuples_new_BT
+0.364859
+0.601684
+0.519352
+0.644203
+0.605794
+0.590186
+0.681383
+0.699901
+0.710157

@@ -1,0 +1,96 @@
+
+Processing print_summary_measuredBEfficiencies_MV2c10at60tagged_tag_new_tuples_old_BT_with_HF_corr_normalization_fix.C...
+measuredBEfficiencies for MV2c10at60tagged new_tuples_old_BT_with_HF_corr_normalization_fix
+0.518123
+0.610929
+0.611477
+0.61705
+0.587782
+0.606651
+0.625742
+0.605398
+0.585514
+
+Processing print_summary_measuredBEfficiencies_MV2c10at70tagged_tag_new_tuples_old_BT_with_HF_corr_normalization_fix.C...
+measuredBEfficiencies for MV2c10at70tagged new_tuples_old_BT_with_HF_corr_normalization_fix
+0.672546
+0.753747
+0.750546
+0.75911
+0.734416
+0.755561
+0.797114
+0.775775
+0.770157
+
+Processing print_summary_measuredBEfficiencies_MV2c10at77tagged_tag_new_tuples_old_BT_with_HF_corr_normalization_fix.C...
+measuredBEfficiencies for MV2c10at77tagged new_tuples_old_BT_with_HF_corr_normalization_fix
+0.758049
+0.836983
+0.839434
+0.859068
+0.850055
+0.87488
+0.933261
+0.925868
+0.909472
+
+Processing print_summary_measuredBEfficiencies_MV2c10at85tagged_tag_new_tuples_old_BT_with_HF_corr_normalization_fix.C...
+measuredBEfficiencies for MV2c10at85tagged new_tuples_old_BT_with_HF_corr_normalization_fix
+0.819466
+0.893822
+0.910529
+0.948038
+0.960049
+1
+1
+1
+1
+
+Processing print_summary_trueBEfficiencies_MV2c10at60tagged_tag_new_tuples_old_BT_with_HF_corr_normalization_fix.C...
+trueBEfficiencies for MV2c10at60tagged new_tuples_old_BT_with_HF_corr_normalization_fix
+0.453033
+0.588231
+0.560765
+0.655274
+0.67061
+0.649361
+0.756108
+0.721388
+0.701808
+
+Processing print_summary_trueBEfficiencies_MV2c10at70tagged_tag_new_tuples_old_BT_with_HF_corr_normalization_fix.C...
+trueBEfficiencies for MV2c10at70tagged new_tuples_old_BT_with_HF_corr_normalization_fix
+0.56359
+0.645643
+0.643777
+0.751576
+0.808317
+0.755827
+0.842668
+0.836413
+0.846029
+
+Processing print_summary_trueBEfficiencies_MV2c10at77tagged_tag_new_tuples_old_BT_with_HF_corr_normalization_fix.C...
+trueBEfficiencies for MV2c10at77tagged new_tuples_old_BT_with_HF_corr_normalization_fix
+0.691087
+0.74381
+0.709442
+0.821064
+0.846919
+0.819515
+0.898804
+0.877624
+0.899749
+
+Processing print_summary_trueBEfficiencies_MV2c10at85tagged_tag_new_tuples_old_BT_with_HF_corr_normalization_fix.C...
+trueBEfficiencies for MV2c10at85tagged new_tuples_old_BT_with_HF_corr_normalization_fix
+0.791933
+0.881285
+0.808944
+0.892225
+0.932748
+0.899724
+0.932445
+0.917269
+0.949563

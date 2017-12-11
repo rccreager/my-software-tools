@@ -1,0 +1,132 @@
+
+Processing print_all_bins_hist_MV2c10at60tagged_tag_ingo_fitter.C...
+1
+1
+1
+1
+1
+1
+1
+1
+1
+
+Processing print_all_bins_hist_MV2c10at60tagged_untag_ingo_fitter.C...
+0.233
+0.178
+0.188
+0.211
+0.194
+0.212
+0.182
+0.175
+0.122
+
+Processing print_all_bins_hist_MV2c10at60tagged_tag_ingo_templates_no_overflow.C...
+1
+1
+1
+1
+1
+1
+1
+1
+1
+
+Processing print_all_bins_hist_MV2c10at60tagged_untag_ingo_templates_no_overflow.C...
+0.233
+0.177
+0.189
+0.211
+0.194
+0.213
+0.183
+0.175
+0.112
+
+Processing print_all_bins_hist_MV2c10at60tagged_tag_ingo_templates_with_overflow.C...
+1
+1
+1
+1
+1
+1
+1
+1
+1
+
+Processing print_all_bins_hist_MV2c10at60tagged_untag_ingo_templates_with_overflow.C...
+0.24
+0.179
+0.19
+0.214
+0.197
+0.236
+0.203
+0.192
+0.15
+
+Processing print_all_bins_hist_MV2c10at60tagged_tag_old_tuples_old_BT.C...
+1
+1
+1
+1
+1
+1
+1
+1
+1
+
+Processing print_all_bins_hist_MV2c10at60tagged_untag_old_tuples_old_BT.C...
+0.24
+0.179
+0.19
+0.214
+0.197
+0.236
+0.203
+0.191
+0.15
+
+Processing print_all_bins_hist_MV2c10at60tagged_tag_new_tuples_old_BT.C...
+1
+1
+1
+1
+1
+1
+1
+1
+1
+
+Processing print_all_bins_hist_MV2c10at60tagged_untag_new_tuples_old_BT.C...
+0.249
+0.174
+0.335
+0.358
+0.36
+0.412
+0.455
+0.455
+0.407
+
+Processing print_all_bins_hist_MV2c10at60tagged_tag_new_tuples_new_BT.C...
+1
+1
+1
+1
+1
+1
+1
+1
+1
+
+Processing print_all_bins_hist_MV2c10at60tagged_untag_new_tuples_new_BT.C...
+0.342
+0.292
+0.335
+0.358
+0.36
+0.412
+0.455
+0.455
+0.407

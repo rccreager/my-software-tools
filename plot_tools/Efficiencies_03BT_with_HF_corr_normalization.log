@@ -1,0 +1,96 @@
+
+Processing print_summary_measuredBEfficiencies_MV2c10at60tagged_tag_03BT_with_HF_corr_normalization_fix.C...
+measuredBEfficiencies for MV2c10at60tagged 03BT_with_HF_corr_normalization_fix
+0.510927
+0.563567
+0.581714
+0.583855
+0.553237
+0.551974
+0.536873
+0.501293
+0.49486
+
+Processing print_summary_measuredBEfficiencies_MV2c10at70tagged_tag_03BT_with_HF_corr_normalization_fix.C...
+measuredBEfficiencies for MV2c10at70tagged 03BT_with_HF_corr_normalization_fix
+0.66332
+0.701034
+0.713012
+0.715167
+0.680939
+0.674913
+0.665421
+0.628493
+0.635473
+
+Processing print_summary_measuredBEfficiencies_MV2c10at77tagged_tag_03BT_with_HF_corr_normalization_fix.C...
+measuredBEfficiencies for MV2c10at77tagged 03BT_with_HF_corr_normalization_fix
+0.749812
+0.78031
+0.798604
+0.810582
+0.782694
+0.776696
+0.771115
+0.738512
+0.743247
+
+Processing print_summary_measuredBEfficiencies_MV2c10at85tagged_tag_03BT_with_HF_corr_normalization_fix.C...
+measuredBEfficiencies for MV2c10at85tagged 03BT_with_HF_corr_normalization_fix
+0.814891
+0.842101
+0.865935
+0.89218
+0.876141
+0.886159
+0.891527
+0.871475
+0.866367
+
+Processing print_summary_trueBEfficiencies_MV2c10at60tagged_tag_03BT_with_HF_corr_normalization_fix.C...
+trueBEfficiencies for MV2c10at60tagged 03BT_with_HF_corr_normalization_fix
+0.420618
+0.60415
+0.543878
+0.652991
+0.603514
+0.608609
+0.715572
+0.708359
+0.725971
+
+Processing print_summary_trueBEfficiencies_MV2c10at70tagged_tag_03BT_with_HF_corr_normalization_fix.C...
+trueBEfficiencies for MV2c10at70tagged 03BT_with_HF_corr_normalization_fix
+0.533422
+0.661045
+0.660398
+0.732145
+0.76851
+0.751123
+0.829351
+0.811898
+0.850742
+
+Processing print_summary_trueBEfficiencies_MV2c10at77tagged_tag_03BT_with_HF_corr_normalization_fix.C...
+trueBEfficiencies for MV2c10at77tagged 03BT_with_HF_corr_normalization_fix
+0.687913
+0.797181
+0.730624
+0.814643
+0.81656
+0.814874
+0.897952
+0.861627
+0.883777
+
+Processing print_summary_trueBEfficiencies_MV2c10at85tagged_tag_03BT_with_HF_corr_normalization_fix.C...
+trueBEfficiencies for MV2c10at85tagged 03BT_with_HF_corr_normalization_fix
+0.812591
+0.846848
+0.83536
+0.899641
+0.927412
+0.894645
+0.930238
+0.912304
+0.937615

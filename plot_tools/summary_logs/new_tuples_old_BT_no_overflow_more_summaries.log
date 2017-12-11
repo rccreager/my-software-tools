@@ -1,0 +1,48 @@
+
+Processing print_summary_NTagB_MV2c10at60tagged_tag_new_tuples_old_BT_no_overflow.C...
+NTagB for MV2c10at60tagged new_tuples_old_BT_no_overflow
+138857
+138692
+101150
+109234
+243176
+75567.6
+299428
+202496
+254572
+
+Processing print_summary_NUntagB_MV2c10at60tagged_tag_new_tuples_old_BT_no_overflow.C...
+NUntagB for MV2c10at60tagged new_tuples_old_BT_no_overflow
+131851
+89601.9
+68031.2
+73994.1
+158957
+48019.3
+170043
+111289
+75016.4
+
+Processing print_summary_measuredBEfficiencies_MV2c10at60tagged_tag_new_tuples_old_BT_no_overflow.C...
+measuredBEfficiencies for MV2c10at60tagged new_tuples_old_BT_no_overflow
+0.512941
+0.607516
+0.597881
+0.596164
+0.604716
+0.611453
+0.637798
+0.645333
+0.772394
+
+Processing print_summary_trueBEfficiencies_MV2c10at60tagged_tag_new_tuples_old_BT_no_overflow.C...
+trueBEfficiencies for MV2c10at60tagged new_tuples_old_BT_no_overflow
+0.453033
+0.588231
+0.560765
+0.655274
+0.67061
+0.649361
+0.756108
+0.721388
+0.701808

@@ -1,0 +1,48 @@
+
+Processing plot_summary_NTagB_MV2c10at60tagged_tag_ingo_templates_no_overflow.C...
+NTagB for MV2c10at60tagged ingo_templates_no_overflow
+44069.3
+43020.2
+29080.1
+28640.3
+77066
+23433.4
+98848.1
+54617.1
+61474.1
+
+Processing plot_summary_NUntagB_MV2c10at60tagged_tag_ingo_templates_no_overflow.C...
+NUntagB for MV2c10at60tagged ingo_templates_no_overflow
+40228.6
+28417.6
+17671.4
+18832.1
+45452.9
+13467.7
+50784.6
+28866.5
+22589.7
+
+Processing plot_summary_measuredBEfficiencies_MV2c10at60tagged_tag_ingo_templates_no_overflow.C...
+measuredBEfficiencies for MV2c10at60tagged ingo_templates_no_overflow
+0.52278
+0.602205
+0.622014
+0.603304
+0.629013
+0.635033
+0.660605
+0.654226
+0.731279
+
+Processing plot_summary_trueBEfficiencies_MV2c10at60tagged_tag_ingo_templates_no_overflow.C...
+trueBEfficiencies for MV2c10at60tagged ingo_templates_no_overflow
+0.446514
+0.543982
+0.647218
+0.67672
+0.694684
+0.702539
+0.72983
+0.711038
+0.669927
