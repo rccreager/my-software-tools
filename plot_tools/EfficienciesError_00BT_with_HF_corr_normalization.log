@@ -1,0 +1,96 @@
+
+Processing print_error_summary_measuredBEfficiencies_MV2c10at60tagged_tag_00BT_with_HF_corr_normalization_fix.C...
+measuredBEfficiencies Error for MV2c10at60tagged 00BT_with_HF_corr_normalization_fix
+0.0024941
+0.00251012
+0.00321104
+0.00369382
+0.0028395
+0.0055284
+0.00313324
+0.00384623
+0.00410855
+
+Processing print_error_summary_measuredBEfficiencies_MV2c10at70tagged_tag_00BT_with_HF_corr_normalization_fix.C...
+measuredBEfficiencies Error for MV2c10at70tagged 00BT_with_HF_corr_normalization_fix
+0.0027531
+0.00262579
+0.00079673
+0.00399365
+0.00313313
+0.0060318
+0.00349708
+0.00433347
+0.00481249
+
+Processing print_error_summary_measuredBEfficiencies_MV2c10at77tagged_tag_00BT_with_HF_corr_normalization_fix.C...
+measuredBEfficiencies Error for MV2c10at77tagged 00BT_with_HF_corr_normalization_fix
+0.00288841
+0.00266676
+0.00349609
+0.00396212
+0.00319178
+0.00615535
+0.00362477
+0.00457316
+0.00492951
+
+Processing print_error_summary_measuredBEfficiencies_MV2c10at85tagged_tag_00BT_with_HF_corr_normalization_fix.C...
+measuredBEfficiencies Error for MV2c10at85tagged 00BT_with_HF_corr_normalization_fix
+0.00270516
+0.000630182
+0.00324531
+0.00378669
+0.00303669
+0.00585715
+0.00338859
+0.00443007
+0.00458692
+
+Processing print_error_summary_trueBEfficiencies_MV2c10at60tagged_tag_00BT_with_HF_corr_normalization_fix.C...
+trueBEfficiencies Error for MV2c10at60tagged 00BT_with_HF_corr_normalization_fix
+0.0846468
+0.175665
+0.132408
+0.0892312
+0.0944042
+0.0776412
+0.076579
+0.0830945
+0.109369
+
+Processing print_error_summary_trueBEfficiencies_MV2c10at70tagged_tag_00BT_with_HF_corr_normalization_fix.C...
+trueBEfficiencies Error for MV2c10at70tagged 00BT_with_HF_corr_normalization_fix
+0.108178
+0.186755
+0.153236
+0.100436
+0.120813
+0.0931752
+0.0891141
+0.0973723
+0.132322
+
+Processing print_error_summary_trueBEfficiencies_MV2c10at77tagged_tag_00BT_with_HF_corr_normalization_fix.C...
+trueBEfficiencies Error for MV2c10at77tagged 00BT_with_HF_corr_normalization_fix
+0.173866
+0.224282
+0.169825
+0.113458
+0.128097
+0.104593
+0.0980569
+0.104669
+0.138896
+
+Processing print_error_summary_trueBEfficiencies_MV2c10at85tagged_tag_00BT_with_HF_corr_normalization_fix.C...
+trueBEfficiencies Error for MV2c10at85tagged 00BT_with_HF_corr_normalization_fix
+0.218361
+0.236956
+0.202898
+0.128072
+0.150301
+0.117633
+0.101142
+0.110302
+0.148251

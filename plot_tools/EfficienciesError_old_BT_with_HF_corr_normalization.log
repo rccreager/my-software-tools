@@ -1,0 +1,96 @@
+
+Processing print_error_summary_measuredBEfficiencies_MV2c10at60tagged_tag_new_tuples_old_BT_with_HF_corr_normalization_fix.C...
+measuredBEfficiencies Error for MV2c10at60tagged new_tuples_old_BT_with_HF_corr_normalization_fix
+0.00200463
+0.00223062
+0.00274099
+0.00325417
+0.00264398
+0.00541706
+0.00384968
+0.00505555
+0.00498211
+
+Processing print_error_summary_measuredBEfficiencies_MV2c10at70tagged_tag_new_tuples_old_BT_with_HF_corr_normalization_fix.C...
+measuredBEfficiencies Error for MV2c10at70tagged new_tuples_old_BT_with_HF_corr_normalization_fix
+0.00231515
+0.00238984
+0.00299231
+0.00356361
+0.00302682
+0.00625705
+0.00462882
+0.00609386
+0.006215
+
+Processing print_error_summary_measuredBEfficiencies_MV2c10at77tagged_tag_new_tuples_old_BT_with_HF_corr_normalization_fix.C...
+measuredBEfficiencies Error for MV2c10at77tagged new_tuples_old_BT_with_HF_corr_normalization_fix
+0.00233202
+0.00235107
+0.00303346
+0.00361166
+0.00312569
+0.00656803
+0.0049669
+0.00672625
+0.00692864
+
+Processing print_error_summary_measuredBEfficiencies_MV2c10at85tagged_tag_new_tuples_old_BT_with_HF_corr_normalization_fix.C...
+measuredBEfficiencies Error for MV2c10at85tagged new_tuples_old_BT_with_HF_corr_normalization_fix
+0.00220178
+0.00218504
+0.00288898
+0.0034687
+0.00289891
+0.00259422
+0.000115435
+1.46476e-12
+3.2575e-11
+
+Processing print_error_summary_trueBEfficiencies_MV2c10at60tagged_tag_new_tuples_old_BT_with_HF_corr_normalization_fix.C...
+trueBEfficiencies Error for MV2c10at60tagged new_tuples_old_BT_with_HF_corr_normalization_fix
+0.0769924
+0.130588
+0.0944208
+0.0703679
+0.0781245
+0.0684346
+0.0699222
+0.0674322
+0.0816331
+
+Processing print_error_summary_trueBEfficiencies_MV2c10at70tagged_tag_new_tuples_old_BT_with_HF_corr_normalization_fix.C...
+trueBEfficiencies Error for MV2c10at70tagged new_tuples_old_BT_with_HF_corr_normalization_fix
+0.0932855
+0.139397
+0.106128
+0.0804756
+0.0948324
+0.079891
+0.0781214
+0.0788291
+0.101862
+
+Processing print_error_summary_trueBEfficiencies_MV2c10at77tagged_tag_new_tuples_old_BT_with_HF_corr_normalization_fix.C...
+trueBEfficiencies Error for MV2c10at77tagged new_tuples_old_BT_with_HF_corr_normalization_fix
+0.126024
+0.157763
+0.115806
+0.0884444
+0.0993383
+0.0873226
+0.0838982
+0.0830549
+0.108679
+
+Processing print_error_summary_trueBEfficiencies_MV2c10at85tagged_tag_new_tuples_old_BT_with_HF_corr_normalization_fix.C...
+trueBEfficiencies Error for MV2c10at85tagged new_tuples_old_BT_with_HF_corr_normalization_fix
+0.147691
+0.199736
+0.135136
+0.0980088
+0.111472
+0.0969624
+0.0872629
+0.087072
+0.115385
